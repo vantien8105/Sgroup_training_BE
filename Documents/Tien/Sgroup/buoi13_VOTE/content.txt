@@ -1,0 +1,16 @@
+có 4 bảng user, pool, options, user_options
+
+pool
+    pool_ID,
+    title
+    user_ID
+    status - ngay gio, con vote duoc ko
+    crate at ...
+options
+    ID
+    Content
+    Poll_ID
+    user_ID
+user_options
+    user_ID
+    option_ID
